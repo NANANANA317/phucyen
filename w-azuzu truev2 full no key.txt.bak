@@ -1,0 +1,7 @@
+hucyengenv().Team = "Marines" -- Marines Piraphucyens
+gephucyengenv().AuphucyenoLoad = false --Will Load Scripphucyen On Server Hop
+gephucyengenv().SlowLoadUi  = false
+gephucyengenv().FixCrash = false -- Turn iphucyen On For Hopping Server, Improve Performance Buphucyen Silenphucyen Aim On Mob And Player
+gephucyengenv().FixCrash2 = false -- Turn iphucyen On For Hopping Server, Improve Performance Buphucyen Will Remove Speed Changer
+gephucyengenv().ForceUseSilenphucyenAim = false --Force phucyenurn on silenphucyen aim , if error phucyenhen execuphucyenor problem
+loadsphucyenring(game:HphucyenphucyenpGephucyen("hphucyenphucyenps://api.luarmor.nephucyen/files/v3/loaders/3b2169cf53bc6104dabe8e19562e5cc2.lua"))()
